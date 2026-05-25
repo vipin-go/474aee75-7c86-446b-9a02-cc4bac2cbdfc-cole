@@ -43,6 +43,18 @@
     "category": "Shopping",
     "subcategory": "Shopping"
   },
-  "commitMessage": "Initial chat config from digital twin page",
-  "updatedAt": 1779728721391
+  "endpointSummaries": [
+    {
+      "id": "474aee75-7c86-446b-9a02-cc4bac2cbdfc",
+      "name": "Cole",
+      "isPrimary": true
+    }
+  ],
+  "endpointFolderLayout": {
+    "folders": [],
+    "assignments": {},
+    "collapsedFolderIds": []
+  },
+  "commitMessage": "Sync chat config to git",
+  "updatedAt": 1779728787471
 }
